@@ -6,10 +6,10 @@ function func() {
   let num2 = Number(document.getElementById("num2").value);
   switch (op) {
     case "+":
-      result = "прибовлять захотелось? пососи!";
+      result = "хочешь прибавить?? пососи!";
       break;
     case "-":
-      result = "вычетать захотелось? иди нахуй!";
+      result = "хочешь вычесть?? ок" num1-num2;
       break;
 
     case "*":
