@@ -9,7 +9,7 @@ function func() {
       result = "хочешь прибавить?? пососи!";
       break;
     case "-":
-      result = "хочешь вычесть?? ок" num1-num2;
+      result = "хочешь вычесть?? ок", num1-num2;
       break;
 
     case "*":
